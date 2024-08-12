@@ -8,9 +8,7 @@
 </p>
 
 
-<p align="center">
-  <a href="https://youtu.be/uZgRbnIsgrA"><img src="https://github.com/justdjango/justchat/blob/master/thumbnail.png" width="290"></a>
-</p>
+
 
 
 To run the backend, run:
